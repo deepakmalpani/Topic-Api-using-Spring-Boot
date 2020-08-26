@@ -1,0 +1,4 @@
+server:
+  servlet:
+    contextPath: /topics/
+  port: 8020
